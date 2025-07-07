@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/KaggleProjects.iml" filepath="$PROJECT_DIR$/.idea/KaggleProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MLProjects.iml" filepath="$PROJECT_DIR$/.idea/MLProjects.iml" />
     </modules>
   </component>
 </project>
