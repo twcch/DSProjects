@@ -4,5 +4,6 @@
 
 ### Competitions
 
-- [Logistic Regression Demo, rank: top 15%](kaggle/competitions/Titanic%20-%20Machine%20Learning%20from%20Disaster/logistic_regression/report.ipynb)
+- Titanic - Machine Learning from Disaster
+  - [Modeling using logistic regression (rank: top 15%)](kaggle/competitions/Titanic%20-%20Machine%20Learning%20from%20Disaster/logistic_regression/report.ipynb)
 
